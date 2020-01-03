@@ -8,6 +8,10 @@
 <p align="center">警告:该hosts不是针对广告的！</p>
 <p align="center">警告:该hosts不是针对广告的！</p>
 
+<p align="center"> 想了想还是写上怎么用吧= =，毕竟我也不知道来的人会不会不会用</p>
+<p align="center">👇突然懒癌，使用方法请看链接👇</p>
+<p align="center">https://github.com/4lan5/cn.blacklist.hosts#windows</p>
+
 <p align="center">#以下是认定为流氓网站的</p>
 
 <p align="center">1）某大数字</p>
