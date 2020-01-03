@@ -1,0 +1,2 @@
+# hosts_blacklist
+一个自行定制修改的流氓网站hosts阻断列表
